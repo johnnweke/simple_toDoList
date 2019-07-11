@@ -1,4 +1,3 @@
 # ToDo List App
 
-90% complete: All the logic needed to process this is in the JS file; just have to clean up the HTML/Bootstrap front end. 
-Peek in the Console.
+Made a todolist that works in the JS console; now working on the Bootstrap front end to give it a shiny look.
